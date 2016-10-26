@@ -1,0 +1,20 @@
+script.Parent.MouseButton1Click:connect(function()
+game.Workspace.Confetti_1.Confetti.ParticleEmitter3.Enabled = true
+game.Workspace.Confetti_2.Confetti.ParticleEmitter3.Enabled = true
+game.Workspace.Confetti_3.Confetti.ParticleEmitter3.Enabled = true
+game.Workspace.Confetti_4.Confetti.ParticleEmitter3.Enabled = true
+game.Workspace.Confetti_1.Confetti.Sound:Play()
+game.Workspace.Confetti_2.Confetti.Sound:Play()
+game.Workspace.Confetti_3.Confetti.Sound:Play()
+game.Workspace.Confetti_4.Confetti.Sound:Play()
+wait(1)
+game.Workspace.Confetti_1.Confetti.ParticleEmitter1.Enabled = true
+game.Workspace.Confetti_2.Confetti.ParticleEmitter1.Enabled = true
+game.Workspace.Confetti_3.Confetti.ParticleEmitter1.Enabled = true
+game.Workspace.Confetti_4.Confetti.ParticleEmitter1.Enabled = true
+game.Workspace.Confetti_1.Confetti.ParticleEmitter2.Enabled = true
+game.Workspace.Confetti_2.Confetti.ParticleEmitter2.Enabled = true
+game.Workspace.Confetti_3.Confetti.ParticleEmitter2.Enabled = true
+game.Workspace.Confetti_4.Confetti.ParticleEmitter2.Enabled = true
+
+end)
