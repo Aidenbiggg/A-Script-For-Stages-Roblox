@@ -1,0 +1,9 @@
+script.Parent.MouseButton1Click:connect(function()
+local p = game.Workspace.SmokeMachineGround:GetChildren()
+
+for i = 1,#p do
+
+p[i].ParticleEmitter.Enabled = false
+p[i].Sound:Pause()
+end
+end)
