@@ -1,0 +1,36 @@
+script.Parent.MouseButton1Click:connect(function()
+game.Workspace.Sparkles_1.S1.ParticleEmitter.Enabled = true
+game.Workspace.Sparkles_1.S1.Sound:Play()
+game.Workspace.Sparkles_2.S1.ParticleEmitter.Enabled = true
+game.Workspace.Sparkles_2.S1.Sound:Play()
+game.Workspace.Sparkles_3.S1.ParticleEmitter.Enabled = true
+game.Workspace.Sparkles_3.S1.Sound:Play()
+game.Workspace.Sparkles_4.S1.ParticleEmitter.Enabled = true
+game.Workspace.Sparkles_4.S1.Sound:Play()
+game.Workspace.Sparkles_5.S1.ParticleEmitter.Enabled = true
+game.Workspace.Sparkles_5.S1.Sound:Play()
+game.Workspace.Sparkles_6.S1.ParticleEmitter.Enabled = true
+game.Workspace.Sparkles_6.S1.Sound:Play()
+game.Workspace.Sparkles_7.S1.ParticleEmitter.Enabled = true
+game.Workspace.Sparkles_7.S1.Sound:Play()
+game.Workspace.Sparkles_8.S1.ParticleEmitter.Enabled = true
+game.Workspace.Sparkles_8.S1.Sound:Play()
+game.Workspace.Sparkles_9.S1.ParticleEmitter.Enabled = true
+game.Workspace.Sparkles_9.S1.Sound:Play()
+game.Workspace.Sparkles_10.S1.ParticleEmitter.Enabled = true
+game.Workspace.Sparkles_10.S1.Sound:Play()
+game.Workspace.Sparkles_11.S1.ParticleEmitter.Enabled = true
+game.Workspace.Sparkles_11.S1.Sound:Play()
+game.Workspace.Sparkles_12.S1.ParticleEmitter.Enabled = true
+game.Workspace.Sparkles_12.S1.Sound:Play()
+game.Workspace.Sparkles_13.S1.ParticleEmitter.Enabled = true
+game.Workspace.Sparkles_13.S1.Sound:Play()
+game.Workspace.Sparkles_14.S1.ParticleEmitter.Enabled = true
+game.Workspace.Sparkles_14.S1.Sound:Play()
+game.Workspace.Sparkles_15.S1.ParticleEmitter.Enabled = true
+game.Workspace.Sparkles_15.S1.Sound:Play()
+game.Workspace.Sparkles_16.S1.ParticleEmitter.Enabled = true
+game.Workspace.Sparkles_16.S1.Sound:Play()
+game.Workspace.Sparkles_17.S1.ParticleEmitter.Enabled = true
+game.Workspace.Sparkles_17.S1.Sound:Play()
+end)
