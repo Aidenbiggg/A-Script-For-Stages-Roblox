@@ -1,0 +1,7 @@
+script.Parent.MouseButton1Click:connect(function()
+local p = game.Workspace.BARRIERS:GetChildren()
+for i = 1,#p do
+p[i].CanCollide=true
+
+end
+end)
